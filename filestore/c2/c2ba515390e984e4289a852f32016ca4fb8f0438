@@ -1,0 +1,77 @@
+
+                .o_company_1_layout {
+                font-family: Lato;
+                &.o_report_layout_standard {
+                    h2 {
+                        color: black;
+                    }
+                    #informations strong {
+                        color: black;
+                    }
+                    #total strong{
+                        color: black;
+                    }
+                    table {
+                        thead {
+                            color: black;
+                        }
+                    }
+                }
+            }
+                .o_company_2_layout {
+                font-family: Lato;
+                &.o_report_layout_standard {
+                    h2 {
+                        color: #3d2f29;
+                    }
+                    #informations strong {
+                        color: #af9e8e;
+                    }
+                    #total strong{
+                        color: #3d2f29;
+                    }
+                    table {
+                        thead {
+                            color: #af9e8e;
+                        }
+                    }
+                }
+            }
+                .o_company_4_layout {
+                font-family: Lato;
+                &.o_report_layout_standard {
+                    h2 {
+                        color: black;
+                    }
+                    #informations strong {
+                        color: black;
+                    }
+                    #total strong{
+                        color: black;
+                    }
+                    table {
+                        thead {
+                            color: black;
+                        }
+                    }
+                }
+            }
+                .o_company_3_layout {
+                font-family: Lato;
+                &.o_report_layout_standard {
+                    h2 {
+                        color: black;
+                    }
+                    #informations strong {
+                        color: black;
+                    }
+                    #total strong{
+                        color: black;
+                    }
+                    table {
+                        thead {
+                            color: black;
+                        }
+                    }
+                }
+            }
